@@ -39,13 +39,6 @@ I'm a **Full-Stack Software Engineer** with **5+ years of experience** building 
 
 ---
 
-## 📈 GitHub Stats
-
-![Subin's GitHub stats](https://github-readme-stats.vercel.app/api?username=subinbhandari&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subinbhandari&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect
 
 - 🌐 [Portfolio Website](#) (coming soon)  
