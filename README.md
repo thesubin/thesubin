@@ -40,11 +40,10 @@ I'm a **Full-Stack Software Engineer** with **5+ years of experience** building 
 ---
 
 ## 📫 Let's Connect
-
-- 🌐 [Portfolio Website](#) (coming soon)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/subinbhandari/)  
-- 📧 Email: subin@example.com  
-- 🔗 [Upwork Profile](#) (optional)
+ 
+- 💼 [LinkedIn](https://www.linkedin.com/in/subin-bhandari/)  
+- 📧 Email:subinbhandari2@gmail.com  
+- 🔗 [Upwork Profile](https://www.upwork.com/freelancers/~01101190172dd9351c) (optional)
 
 ---
 
